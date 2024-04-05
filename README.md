@@ -1,6 +1,5 @@
-# wifi-manager
+# PyNetBridge
 This script serves as helping hand for those can't configure their wifi card on linux
-
 
 # Make it work
 ```bash
