@@ -8,9 +8,7 @@ This script serves as helping hand for those can't configure their wifi card on 
 
 cd wifi-manager
 
-# change read and write permission to avoid any errors
-sudo chown -R $USER wifi_manager.py && sudo chmod +x wifi_manager.py 
-
+sudo python3 PyNetBridge.py 
 
 # configure interfaces.d manually
 vim /etc/network/interface
