@@ -5,7 +5,7 @@ This script serves as helping hand for those can't configure their wifi card on 
 ```bash
 # clone the repo
 
-cd wifi-manager
+cd PyNetBridge
 
 sudo python3 PyNetBridge.py 
 
